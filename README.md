@@ -22,7 +22,7 @@ Node.js (v14 or higher)
 npm or yarn
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/react-todo-list.git
+git clone https://github.com/yourusername/Todolist-React.git
 **Navigate to the project directory:
 
 
